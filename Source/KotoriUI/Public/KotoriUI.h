@@ -5,7 +5,7 @@
 #include "CoreMinimal.h"
 #include "Modules/ModuleManager.h"
 
-class FKotoriGameUIModule : public IModuleInterface
+class FKotoriUIModule : public IModuleInterface
 {
 public:
 
